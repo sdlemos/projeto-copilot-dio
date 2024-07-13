@@ -22,8 +22,7 @@ Este projeto foi criado para demonstrar a capacidade de reconhecimento de texto 
 - **Possibilidades Futuras**: Implementar uma análise mais detalhada dos textos reconhecidos para identificar padrões e insights adicionais.
 
 ## Prints
-
-![Processamento]( ![Captura de tela 2024-07-13 155308](https://github.com/user-attachments/assets/18046307-56fe-4025-87b2-bdebf3ec4cb9)
+![Captura de tela 2024-07-13 155308](https://github.com/user-attachments/assets/18046307-56fe-4025-87b2-bdebf3ec4cb9)
 ![Captura de tela 2024-07-13 155328](https://github.com/user-attachments/assets/ca020d6b-cee0-4511-830b-f9fe5dd70722)
 ![Captura de tela 2024-07-13 155342](https://github.com/user-attachments/assets/a04c673a-42d0-4012-aa66-3e275b4ac3d5)
 ![Captura de tela 2024-07-13 155355](https://github.com/user-attachments/assets/336b5d9b-cd31-4dd3-ab2d-238b69b97401)
