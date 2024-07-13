@@ -23,7 +23,7 @@ Este projeto foi criado para demonstrar a capacidade de reconhecimento de texto 
 
 ## Prints
 
-![Processamento](https://drive.google.com/drive/folders/1_raY9obR8TYJPtzQKblQi1A-dZwGnAot?usp=drive_link)
+![Processamento]( https://drive.google.com/drive/folders/1_raY9obR8TYJPtzQKblQi1A-dZwGnAot?usp=drive_link )
 
 ## Conclusão
 
